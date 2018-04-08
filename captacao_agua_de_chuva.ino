@@ -1,4 +1,4 @@
-//Autor: FILIPEFLOP
+//Autor: SEH
  
 //Carrega a biblioteca do sensor ultrassonico
 #include <Ultrasonic.h>
